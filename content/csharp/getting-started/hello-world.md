@@ -66,7 +66,7 @@ public class Program
 This line includes two keywords and one identifier. The ``public`` keyword describes the class's [accessibility level](https://msdn.microsoft.com/en-us/library/ba0a1yw2.aspx). This defines how the class may be accessed by other parts of the program, and ``public`` means there are no restrictions to its access. The ``class`` keyword is used to define classes in C#, one of the primary constructs used to define *types* you will work with. C# is a *strongly typed* language, meaning that most of the time you'll need to explicitly define a type in your source code before it can be referenced from a program.
 
 Inside the class's scope, a *method* called "Main" is defined:
-```c#
+```c# 
 public static void Main()
 ```
 
