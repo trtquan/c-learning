@@ -8,7 +8,7 @@ The content is broken up into high level groups by topic, initially covering
 - [C#](content/csharp/README.md)
 - [ASP.NET](content/asp.net/README.md)
 - [F#](content/fsharp/README.md)
-
+ 
 Within each content area, there are one or more *tutorials*.
 
 Each tutorial consists of *lessons*. Each lesson should be a page detailing the concept being taught, along with sample code. Lesson and page may be used interchangeably when describing the tutorials. Lessons may be broken up into several *steps*. Each step and lesson should end with working code the user can run using a REPL, Visual Studio, or Visual Studio Code.
