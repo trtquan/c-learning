@@ -1,5 +1,5 @@
 # Creating a Hello World Program
-by [Steve Smith](http://deviq.com/me/steve-smith)
+by [Steve Smith](http://deviq.com/me/steve-smith) 
 
 ## The Hello World Project
 
