@@ -69,7 +69,7 @@ Inside the class's scope, a *method* called "Main" is defined:
 ```c# 
 public static void Main()
 ```
-
+ 
 The "Main" method is this program's entry point - the first code that runs when the application is run. Like classes, methods can have accessibility modifiers, too. In this case, ``public`` means there are no limitations on access to this method. 
 
 Next, the ``static`` keyword marks this method as global and associated with the type it's defined on, not a particular *instance* of that type. You'll learn more about this distinction in later lessons. 
