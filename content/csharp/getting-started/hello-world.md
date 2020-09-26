@@ -10,7 +10,7 @@ A C# program begins with a *Main* method, usually found in a file called *Progra
 ```{.snippet}
 using System;
 
-namespace ConsoleApplication
+namespace ConsoleApplication 
 {
     public class Program
     {
