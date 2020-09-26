@@ -91,7 +91,7 @@ Inside of the parentheses, the program is passing in "Hello World!" to the metho
 
 After the ``Console.WriteLine`` statement, there are three closing curly braces (``}``). These close the scopes for the ``Main`` method, the ``Program`` class, and the ``ConsoleApplication`` namespace, respectively. Note that the program uses indentation to make it easy to see which elements of the code belong to which scope. This is a good practice to follow, and will make it much easier for you (or others) to quickly read and understand the code you write.
 
-## Troubleshooting
+## Troubleshooting 
 
 Especially if you create the initial program by hand, rather than from a template, it can be easy to make small mistakes that result in errors when you compile the application. You'll find a list of common errors in the [troubleshooting lesson](troubleshooting).
 
