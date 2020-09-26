@@ -8,7 +8,7 @@ In this lesson, you're going to learn about the different parts of a very simple
 A C# program begins with a *Main* method, usually found in a file called *Program.cs*, like this one:
 
 ```{.snippet}
-using System;
+using System; 
 
 namespace ConsoleApplication 
 {
