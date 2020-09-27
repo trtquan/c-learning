@@ -5,7 +5,7 @@ by [Steve Smith](http://deviq.com/me/steve-smith)
 
 Strings in C# are a built-in type, as well as a standard .NET type. The ``string`` keyword in C# is the same as the ``System.String`` type, and you can declare variables using either version without any impact on your program's behavior. When a string is instantiated in C#, a sequence of bytes in memory is allocated to it. This allocation cannot be modified after-the-fact; it can only be erased once the string is no longer in use by the program. To change a string, or to create a new string out of one or more others, a new memory allocation is required. Because string values cannot be changed once they are created, strings are said to be *immutable*. This aspect of strings can have performance implications in your programs, so it's helpful to understand.
 
-## Creating Strings
+## Creating Strings 
 
 Strings are reference types, which means (among other things) they are null when they are declared, until they are assigned a value. You can declare and assign a value in a single statement, or as separate statements. Both of the following examples result in strings with the same value:
 
