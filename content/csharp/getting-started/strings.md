@@ -166,7 +166,7 @@ When accepting user input, it can be useful to trim it, so that it fits into a f
 
 ```{.snippet}
 string input = " Steve "; // has a space at the start and end.
-string clean1 = input.TrimStart(); // "Steve "
+string clean1 = input.TrimStart(); // "Steve " 
 string clean2 = input.TrimEnd(); // " Steve"
 string clean3 = input.Trim(); // "Steve"
 string shortversion = input.Trim().Substring(0,3); // "Ste"
